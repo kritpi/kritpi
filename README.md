@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hej 👋, Welcome to Amp's GitHub profile ! 
+    → Earth 🌏 Settled Homo Sapiens 🧬 
+    → Computer Science Student 👨🏻‍💻 
+    → Full Time ⏰
+        → Music Listener 🎧
+        → Software Engineer (Soon) 🤖
+    → Part Time ⏰
+        → Film Photographer 🎞️
+        → 🎹 🎸
 
-<!--
-**kritpi/kritpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Language 🗣️
+[![My Skills](https://skillicons.dev/icons?i=py,c,js,ts,java)](https://skillicons.dev)
+
+### Libries / Framework 📚
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind)](https://skillicons.dev)
+
+### Interest / Learning 🤓
+[![My Skills](https://skillicons.dev/icons?i=express,go,mysql,sklearn,svelte,mongo,docker,firebase)](https://skillicons.dev)
+
+
+<details>
+    <summary><b>My Project </b></summary>
+    coming soon..
+</details>

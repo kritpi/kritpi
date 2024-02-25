@@ -14,7 +14,7 @@
 ### Language 🗣️
 [![My Skills](https://skillicons.dev/icons?i=py,c,js,ts,java)](https://skillicons.dev)
 
-### Libries / Framework 📚
+### Libraies / Framework 📚
 [![My Skills](https://skillicons.dev/icons?i=react,next,tailwind)](https://skillicons.dev)
 
 ### Interest / Learning 🤓

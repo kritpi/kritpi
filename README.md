@@ -1,12 +1,7 @@
 ## Hej 👋, Welcome to Amp's GitHub profile ! 
     → Earth 🌏 Settled Homo Sapiens 🧬 
     → Computer Science Student 👨🏻‍💻 
-    → Full Time ⏰
-        → Music Listener 🎧
-        → Software Engineer (Soon) 🤖
-    → Part Time ⏰
-        → Film Photographer 🎞️
-        → 🎹 🎸
+    → Film Photographer 🎞️
 
 
 
